@@ -7,6 +7,12 @@
    + 赋值引用
    + copy on write
 2. 常见函数使用
+   + array_chunk
+   + array_column
+   + array_merge
+   + array_count_values
+   + array_diff 
+   + array_fill_keys
 3. 面向对象
 
 
